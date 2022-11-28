@@ -282,7 +282,6 @@ h1,h2,h3,h4,h5,h6,p{
 html,body
 {
   width: 100% !important;
-  height: 100% !important;
   margin: 0px !important;
   padding: 0px !important;
   overflow-x:hidden !important;
